@@ -1,4 +1,4 @@
-# Logistic Regression for ABC Grocery - Customer Sign-Up Prediction
+# ABC Grocery Customer Sign-Up Prediction using Logistic Regression 
 
 ## Project Overview:
 The **ABC Grocery Logistic Regression** project uses **Logistic Regression** to predict whether a customer will sign up for a promotional offer based on customer demographics and transaction data. The model helps ABC Grocery identify high-potential customers and optimize marketing efforts. The project involves multiple steps, including **feature selection**, **cross-validation**, and **model evaluation**.
